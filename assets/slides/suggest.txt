@@ -1,0 +1,33 @@
+01. Introdução à Algoritmos: Este capítulo é importante para estabelecer uma base sólida para o aprendizado de algoritmos e lógica de programação. Ele deve explicar o que são algoritmos, como eles funcionam, e como eles são usados no mundo real.
+
+02. Variáveis: Este capítulo é essencial para aprender como armazenar e manipular dados em um programa. Ele deve explicar o que são variáveis, como declarar variáveis, e como acessar e atribuir valores às variáveis.
+
+03. Operadores Matemáticos: Este capítulo é importante para aprender como realizar operações matemáticas em um programa. Ele deve explicar os diferentes operadores matemáticos e como usá-los.
+
+04. Tipos de Dados: Este capítulo é importante para aprender como armazenar diferentes tipos de dados em um programa. Ele deve explicar os diferentes tipos de dados e como usá-los.
+
+05. Nomeando Variáveis: Este capítulo é importante para aprender como nomear variáveis e funções de forma consistente. Ele deve explicar as diferentes convenções de nomenclatura e como usá-las.
+
+06. Estruturas Condicionais: Este capítulo é importante para aprender como executar um código diferente com base em uma condição. Ele deve explicar os diferentes tipos de estruturas condicionais e como usá-las.
+
+07. Operadores Relacionais: Este capítulo é importante para aprender como comparar valores em um programa. Ele deve explicar os diferentes operadores relacionais e como usá-los.
+
+08. Operadores Lógicos: Este capítulo é importante para aprender como combinar condições em um programa. Ele deve explicar os diferentes operadores lógicos e como usá-los.
+
+09. Listas: Este capítulo é importante para aprender como armazenar uma coleção de dados em um programa. Ele deve explicar o que são listas, como declarar listas, e como acessar e modificar os elementos de uma lista.
+
+10. Loops: Este capítulo é importante para aprender como executar um bloco de código repetidamente. Ele deve explicar os diferentes tipos de loops e como usá-los.
+
+11. Loop For: Este capítulo é um subtópico do capítulo de loops. Ele deve explicar como usar o loop for para executar um bloco de código um número específico de vezes.
+
+12. Loop While: Este capítulo é um subtópico do capítulo de loops. Ele deve explicar como usar o loop while para executar um bloco de código enquanto uma condição for verdadeira.
+
+13. Funções: Este capítulo é importante para aprender como dividir um programa em partes menores e reutilizáveis. Ele deve explicar o que são funções, como declarar funções, e como chamar funções.
+
+14. Parâmetros e Retornos: Este capítulo é um subtópico do capítulo de funções. Ele deve explicar como passar valores para uma função e como retornar um valor de uma função.
+
+15. Estruturas de Dados: Este capítulo é importante para aprender como armazenar dados de forma eficiente em um programa. Ele deve explicar os diferentes tipos de estruturas de dados e como usá-las.
+
+16. Objetos: Este capítulo é importante para aprender como criar programas modulares e reutilizáveis. Ele deve explicar o que são objetos, como declarar objetos, e como acessar e modificar os atributos de um objeto.
+
+17. Herança: Este capítulo é um subtópico do capítulo de objetos. Ele deve explicar como criar objetos que herdam atributos de outros objetos.
