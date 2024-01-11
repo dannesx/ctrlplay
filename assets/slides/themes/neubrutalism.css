@@ -1,0 +1,77 @@
+/* @theme neubrutalism */
+
+@import 'default';
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Mega:wght@700&family=Public+Sans:wght@400;700&display=swap');
+
+:root {
+	--hue: 210;
+}
+
+:root {
+	--white: hsl(var(--hue), 100%, 98%);
+	--light: hsl(var(--hue), 75%, 65%);
+	--primary: hsl(var(--hue), 75%, 54%);
+	--shadow: hsl(var(--hue), 79%, 30%);
+	--detail: hsl(calc(var(--hue) + 30), 70%, 66%);
+}
+
+h1 {
+	font-family: 'Lexend Mega', sans-serif;
+	letter-spacing: -3px;
+	color: var(--primary);
+	text-align: center;
+}
+
+em {
+	font-style: normal;
+	color: var(--light);
+	font-weight: 700;
+}
+
+section {
+	background: var(--white);
+	font-family: 'Public Sans', sans-serif;
+	user-select: none;
+}
+
+section.dark {
+	background: var(--shadow);
+	color: var(--white);
+}
+
+section.dark h1 {
+	color: var(--detail);
+}
+
+section.dark blockquote {
+	color: var(--white);
+}
+
+section.cover {
+	text-align: center;
+	padding: 200px;
+}
+
+section.cover h1 {
+	font-size: 72px;
+	line-height: 1.2;
+}
+
+section.cover p {
+	font-size: 36px;
+}
+
+section.cover.dark {
+	color: var(--light);
+}
+
+section.cover::after,
+section.cover::before {
+	color: transparent;
+	opacity: 0;
+}
+
+section.center {
+	text-align: center;
+    font-size: 32px;
+}
