@@ -28,6 +28,10 @@ em {
 	font-weight: 700;
 }
 
+strong {
+	color: var(--detail);
+}
+
 section {
 	background: var(--white);
 	font-family: 'Public Sans', sans-serif;
@@ -73,5 +77,5 @@ section.cover::before {
 
 section.center {
 	text-align: center;
-    font-size: 32px;
+	font-size: 32px;
 }

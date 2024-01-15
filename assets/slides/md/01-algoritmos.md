@@ -19,7 +19,6 @@ Algoritmos são sequências de passos que descrevem como resolver um problema. E
 
 ---
 
-<!-- _class: dark -->
 
 # Onde usamos?
 
@@ -32,7 +31,7 @@ Algoritmos são usados em todas as áreas da vida, desde a matemática até a pr
 
 ---
 
-<!-- _class: center -->
+<!-- _class: dark center -->
 
 # Na prática
 
