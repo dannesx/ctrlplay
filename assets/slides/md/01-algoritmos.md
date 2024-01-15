@@ -7,8 +7,6 @@ theme: neubrutalism
 
 # Introdução à Algoritmos
 
-O que são algoritmos, como eles funcionam, e como eles são usados no mundo real.
-
 ---
 
 <!-- _class: center -->

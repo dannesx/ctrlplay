@@ -59,6 +59,11 @@
 			body {
 				padding: 40px;
 				background-color: #c4a1ff;
+				display: flex;
+				justify-content: center;
+			}
+			main {
+				max-width: 900px;
 			}
 			header {
 				margin-bottom: 40px;
@@ -68,6 +73,11 @@
 				gap: 24px;
 				width: 100%;
 				grid-template-columns: 1fr;
+			}
+			@media (min-width: 750px) {
+				ul{
+					grid-template-columns: repeat(2, 1fr);
+				}
 			}
 			.btn {
 				display: block;
@@ -101,106 +111,108 @@
 		</style>
 	</head>
 	<body>
-		<header>
-			<h1>Material de Apoio</h1>
-			<p>
-				Material de apoio utilizado nas aulas da Ctrl+Play a fim de auxiliar o
-				estudo dos alunos, documentado por mim com muito carinho e dedicação
-			</p>
-		</header>
-		<section>
-			<ul>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>01.</span> Introdução à Algoritmos</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/02-variaveis.html" class="btn"
-						><span><span>02.</span></span> Variáveis</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/03-operadores-matematicos.html" class="btn"
-						><span>03.</span> Operadores Matemáticos</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/04-tipos-dados.html" class="btn"
-						><span>04.</span> Tipos de Dados</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>05.</span> Nomeando Variáveis</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>06.</span> Estruturas Condicionais</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>07.</span> Operadores Relacionais</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>08.</span> Operadores Lógicos</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>09.</span> Listas</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>10.</span> Loops</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>11.</span> Loop For</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>12.</span> Loop While</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>13.</span> Funções</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>14.</span> Parâmetros e Retornos</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>15.</span> Estruturas de Dados</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>16.</span> Objetos</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>17.</span> Herança</a
-					>
-				</li>
-				<li>
-					<a href="./assets/slides/01-algoritmos.html" class="btn"
-						><span>18.</span> Tratativa de Erros</a
-					>
-				</li>
-			</ul>
-		</section>
+		<main>
+			<header>
+				<h1>Material de Apoio</h1>
+				<p>
+					Material de apoio utilizado nas aulas da Ctrl+Play a fim de auxiliar o
+					estudo dos alunos, documentado por mim com muito carinho e dedicação
+				</p>
+			</header>
+			<section>
+				<ul>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>01.</span> Introdução à Algoritmos</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/02-variaveis.html" class="btn"
+							><span><span>02.</span></span> Variáveis</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/03-operadores-matematicos.html" class="btn"
+							><span>03.</span> Operadores Matemáticos</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/04-tipos-dados.html" class="btn"
+							><span>04.</span> Tipos de Dados</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>05.</span> Nomeando Variáveis</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>06.</span> Estruturas Condicionais</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>07.</span> Operadores Relacionais</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>08.</span> Operadores Lógicos</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>09.</span> Listas</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>10.</span> Loops</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>11.</span> Loop For</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>12.</span> Loop While</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>13.</span> Funções</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>14.</span> Parâmetros e Retornos</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>15.</span> Estruturas de Dados</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>16.</span> Objetos</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>17.</span> Herança</a
+						>
+					</li>
+					<li>
+						<a href="./assets/slides/01-algoritmos.html" class="btn"
+							><span>18.</span> Tratativa de Erros</a
+						>
+					</li>
+				</ul>
+			</section>
+		</main>
 	</body>
 </html>

@@ -61,10 +61,6 @@ section.cover h1 {
 	line-height: 1.2;
 }
 
-section.cover p {
-	font-size: 36px;
-}
-
 section.cover.dark {
 	color: var(--light);
 }

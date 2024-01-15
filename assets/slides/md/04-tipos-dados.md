@@ -7,8 +7,6 @@ theme: neubrutalism
 
 # Tipos de Dados
 
-Tipo de informação que um dado pode armazenar: numéricos, textuais e lógicos.
-
 ---
 
 # Conceito

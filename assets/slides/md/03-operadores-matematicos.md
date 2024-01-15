@@ -7,8 +7,6 @@ theme: neubrutalism
 
 # Operadores Matemáticos
 
-São utilizados em algoritmos para realizar cálculos e manipular dados.
-
 ---
 
 <!-- _class: center -->

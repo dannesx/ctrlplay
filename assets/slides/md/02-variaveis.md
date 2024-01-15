@@ -7,8 +7,6 @@ theme: neubrutalism
 
 # Variáveis
 
-Armazenando informações, fazendo consultas e atualizando dados
-
 ---
 
 # Conceito
