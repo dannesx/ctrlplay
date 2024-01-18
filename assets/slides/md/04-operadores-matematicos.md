@@ -13,17 +13,7 @@ theme: neubrutalism
 
 # Conceito
 
-Operadores matemáticos são utilizados para realizar operações matemáticas básicas, como adição, subtração, multiplicação, divisão e módulo.
-
----
-
-# Onde usamos?
-
-Operadores matemáticos são utilizados em uma variedade de situações, como:
-
-- **Realização de cálculos:** para calcular valores, como o preço de um produto ou a distância entre dois pontos.
-- **Manipulação de dados:** para converter dados de um formato para outro, como converter um número em uma string.
-- **Resolução de problemas:** para resolver problemas que envolvem cálculos ou manipulação de dados.
+Operadores matemáticos são utilizados para realizar operações matemáticas básicas, como adição `+`, subtração `-`, multiplicação `*`, divisão `/`, módulo `%` e potenciação `**`.
 
 ---
 

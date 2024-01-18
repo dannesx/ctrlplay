@@ -52,13 +52,3 @@ print("Olá, " + nome + ". Você tem " + idade + " anos.")
 ```
 
 Este exemplo mostra como as variáveis podem ser utilizadas para armazenar dados e exibi-los na tela. A variável `nome` armazena o nome "João" e a variável `idade` armazena a idade 20. A instrução `print()` é utilizada para exibir o nome e a idade na tela.
-
----
-
-<!-- _class: dark -->
-
-# Observações
-
-- O nome de uma variável não pode começar com um número.
-- O nome de uma variável não pode ser uma palavra reservada da linguagem.
-- O nome de uma variável pode conter letras, números e o caractere `_`.
