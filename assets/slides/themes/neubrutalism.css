@@ -8,16 +8,21 @@
 }
 
 :root {
+	/* Version 01
 	--white: hsl(var(--hue), 100%, 98%);
 	--light: hsl(var(--hue), 75%, 65%);
 	--primary: hsl(var(--hue), 75%, 54%);
 	--shadow: hsl(var(--hue), 79%, 30%);
-	--detail: hsl(calc(var(--hue) + 30), 70%, 66%);
+	--primary: hsl(calc(var(--hue) + 30), 70%, 66%); */
+
+	--light: #c4a1ff;
+	--primary: #9723c9;
+	--white: #fff;
 }
 
 h1 {
 	font-family: 'Lexend Mega', sans-serif;
-	letter-spacing: -3px;
+	letter-spacing: -5px;
 	color: var(--primary);
 	text-align: center;
 }
@@ -29,7 +34,7 @@ em {
 }
 
 strong {
-	color: var(--detail);
+	color: var(--primary);
 }
 
 section {
@@ -39,12 +44,12 @@ section {
 }
 
 section.dark {
-	background: var(--shadow);
+	background: var(--primary);
 	color: var(--white);
 }
 
 section.dark h1 {
-	color: var(--detail);
+	color: var(--light);
 }
 
 section.dark blockquote {
