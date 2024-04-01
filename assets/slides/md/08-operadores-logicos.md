@@ -19,7 +19,7 @@ Operadores lógicos `AND`, `OR` e `NOT` são utilizados quando queremos **combin
 
 # Operador AND `&&`
 
-O resultado de `A AND B` será verdadeiro apenas quando `A` e `B` forem condições verdadeiras. Na maiorida das linguagens, seu símbolo é `&&`.
+O resultado de `A AND B` será verdadeiro apenas quando `A` e `B` forem condições verdadeiras. Na maioria das linguagens, seu símbolo é `&&`.
 **Exemplo:** *Vou para a praia se estiver calor `E` for feriado*
 
 | Está calor? | É feriado? | Vou para a praia? |
@@ -33,7 +33,7 @@ O resultado de `A AND B` será verdadeiro apenas quando `A` e `B` forem condiç�
 
 # Operador OR `||`
 
-O resultado de `A OR B` será verdadeiro quando `A` ou `B` forem condições verdadeiras. Na maiorida das linguagens, seu símbolo é `||`.
+O resultado de `A OR B` será verdadeiro quando `A` ou `B` forem condições verdadeiras. Na maioria das linguagens, seu símbolo é `||`.
 **Exemplo:** *Vou para o shopping se eu tiver dinheiro `OU` for fim de semana*
 
 | Tenho dinheiro? | É fim de semana? | Vou para o shopping? |
@@ -47,7 +47,7 @@ O resultado de `A OR B` será verdadeiro quando `A` ou `B` forem condições ver
 
 # Operador NOT `!`
 
-O resultado de `NOT A` será verdadeiro quando `A` for falso, e vice-versa. Na maiorida das linguagens, seu símbolo é `!`
+O resultado de `NOT A` será verdadeiro quando `A` for falso, e vice-versa. Na maioria das linguagens, seu símbolo é `!`
 **Exemplo:** *Vou para escola se `NÃO` estiver de férias*
 
 | Estou de férias? | Vou para a escola? |
