@@ -13,14 +13,6 @@ Explorando o laço de repetição `for` em detalhes
 
 <!-- _class: center -->
 
-# Introdução
-
-No mundo da programação, utilizar loops é essencial para eficiência e clareza do código. Entre os diversos tipos de loops, o `for` se destaca por sua habilidade em iterar sobre coleções de maneira previsível e ordenada
-
----
-
-<!-- _class: center -->
-
 # Conceito
 
 O loop `for` permite executar um bloco de código repetidamente por um número definido de vezes, que pode ser determinado antes da execução do loop. Ele é extremamente útil quando sabemos exatamente quantas vezes queremos que um bloco de instruções seja executado.
@@ -36,9 +28,17 @@ for variavel in colecao:
   # Bloco de código a ser repetido
 ```
 
-- **`variavel`:** Recebe cada uten da coleção, um de cada vez
+- **`variavel`:** Recebe cada item da coleção, um de cada vez
 - **`colecao`:** A sequência sobre a qual o loop está iterando
- 
+
+---
+
+<!-- _class: center -->
+
+# Scratch
+
+![For Lista](../../images/for-lista.png)
+
 ---
 
 # Exemplo Prático
@@ -69,3 +69,11 @@ for numero in range(1, 11):
 ```
 
 Este código irá imprimir de 1 a 10, demonstrando a eficácia do loop `for` para controlar repetições de tarefas simples
+
+---
+
+<!-- _class: center -->
+
+# Scratch
+
+![For Range](../../images/for-range.png)
